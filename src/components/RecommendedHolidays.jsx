@@ -1,7 +1,7 @@
 import React from 'react';
 import HolidayCard from './HolidayCard';
 import BaliImage from '../assets/Bali.png'; 
-import PalawanImage from '../assets/PalawanIMAGE.png';
+import PalawanImage from '../assets/PalawanImage.png';
 import SwissImage from '../assets/SwissImage.png';
 import BoracayImage from '../assets/BoracayIMAGE.png';
 

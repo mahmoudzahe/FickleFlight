@@ -7,7 +7,7 @@ import RecommendedHolidays from './components/RecommendedHolidays';
 import PopularStays from './components/PopularStays';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

@@ -1,9 +1,9 @@
 import React from 'react';
 import DestinationCard from './DestinationCard';
-import GreeceImage from '../assets/GreeceIMAGE.png';
-import NorwayImage from '../assets/NorwayIMAGE.png';
-import ParisImage from '../assets/ParisIMAGE.png';
-import TuscanyImage from '../assets/TuscanyIMAGE.png';
+import GreeceImage from '../assets/GreeceImage.png';
+import NorwayImage from '../assets/NorwayImage.png';
+import ParisImage from '../assets/ParisImage.png';
+import TuscanyImage from '../assets/TuscanyImage.png';
 
 function PopularDestinations() {
   const destinations = [

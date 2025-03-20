@@ -1,9 +1,9 @@
 import React from 'react';
 import StayCard from './StayCard';
-import ArcticHutImage from '../assets/Arctic Hut IMAGE.png';
+import ArcticHutImage from '../assets/Arctic Hut Image.png';
 import DiscoveryShoresImage from '../assets/Discovery Shores Image.png';
-import LakeLouiseImage from '../assets/Lake Louise IMAGE.png';
-import MatterhornSuitesImage from '../assets/Matterhorn Suites IMAGE.png';
+import LakeLouiseImage from '../assets/Lake Louise Image.png';
+import MatterhornSuitesImage from '../assets/Matterhorn Suites Image.png';
 
 function PopularStays() {
   const stays = [
